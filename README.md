@@ -1,5 +1,5 @@
 Mechanical Engineering Portfolio
 
-Industry experience in cryogenic system development, nitrogen line retrofitting in mechanical sub-systems, liquid-to-gas optimization through experimental testing, and advanced infrastructure cryogenic manufacturing of polymer-based raw materials for commercial use.
+Industry experience in cryogenic system development, nitrogen line retrofitting in mechanical sub-systems, liquid-to-gas optimization through experimental testing, and advanced infrastructure cryogenic manufacturing of polymer-based and metallic raw materials for commercial use.
 
-Portfolio presentation is listed as a powerpoint pdf document.
+Portfolio presentations are listed as powerpoint pdf documents.
